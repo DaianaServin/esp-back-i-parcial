@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="510eedb6-5484-496c-9ed6-ec50bf0ba704" name="Changes" comment=" configuracion v2">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConfigServer/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/configServer/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConfigServer/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/configServer/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConfigServer/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configServer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConfigServer/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/configServer/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConfigServer/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/configServer/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConfigServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/configServer/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConfigServer/src/main/java/com/dh/ConfigServer/configServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/configServer/src/main/java/com/dh/ConfigServer/configServerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConfigServer/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/configServer/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConfigServer/src/test/java/com/dh/ConfigServer/ConfigServerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/configServer/src/test/java/com/dh/ConfigServer/ConfigServerApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EurekaServer/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaServer/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EurekaServer/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaServer/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EurekaServer/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaServer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EurekaServer/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaServer/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EurekaServer/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaServer/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EurekaServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaServer/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EurekaServer/src/main/java/com/dh/EurekaServer/eurekaServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaServer/src/main/java/com/dh/eurekaServer/eurekaServerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EurekaServer/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaServer/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EurekaServer/src/test/java/com/dh/EurekaServer/eurekaServerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaServer/src/test/java/com/dh/eurekaServer/eurekaServerApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="510eedb6-5484-496c-9ed6-ec50bf0ba704" name="Changes" comment=" configuracion v3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -229,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668450877295</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary=" configuracion v3">
+      <created>1668452287730</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668452287730</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -251,6 +234,7 @@
     <MESSAGE value="Revert &quot;Delete .idea directory&quot;&#10;&#10;This reverts commit cbc562fd" />
     <MESSAGE value=" configuracion" />
     <MESSAGE value=" configuracion v2" />
-    <option name="LAST_COMMIT_MESSAGE" value=" configuracion v2" />
+    <MESSAGE value=" configuracion v3" />
+    <option name="LAST_COMMIT_MESSAGE" value=" configuracion v3" />
   </component>
 </project>
